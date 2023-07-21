@@ -32,6 +32,7 @@ Vixi, acho que já falei demais... 🤔 Mas continua aqui no perfil que tem muit
    
 ## 
 <div> 
-    <a href="https://instagram.com/brenno1812almeida" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/brenno18almeida" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:brenno1812almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https:\\www.linkedin.com/in/brenno-almeida-542487164"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

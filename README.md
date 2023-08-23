@@ -1,3 +1,5 @@
+# Brenno Almeida
+
 Olá, mundo! Eu me chamo Brenno Almeida, vamos começar? 
 
 Algumas informações sobre mim: 
@@ -11,19 +13,29 @@ Algumas informações sobre mim:
 - Meus pronomes são ele/dele.
 - Estou estudando atualmente back-end, mais precisamente C# com .NET. Tenho uma base sólida em front-end.
 - Estou fazendo o bootcamp do Santader junto com a DIO.
+- Meu inglês é intermediário. (Ui, todo bilíngue ele)
 
 Vixi, acho que já falei demais... 🤔 Mas continua aqui no perfil que tem muito mais informações sobre mim! 
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" alt=".Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
+## Linguagens: 
+
+<div style="display: inline_block">
+    <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Jquery" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+    <img align="center" alt="Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt=".Net" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
 </div>
 
-##
+## Banco de Dados: 
+
+<div style="display: inline_block">
+    <img src="https://github.com/ThiMonteiro/ThiMonteiro/assets/96743366/d9b7c314-7f38-4cd7-95ce-0f11136b4124" height="110" width="110">
+    <img src="https://github.com/ThiMonteiro/ThiMonteiro/assets/96743366/607d2bb8-ac15-4714-b4a4-26892417f301" height="110" width="110">
+</div>
+
+## Github Status: 
 
 <div>
    <a href="https://beacons.ai/brenno1812almeida"> 
@@ -31,7 +43,8 @@ Vixi, acho que já falei demais... 🤔 Mas continua aqui no perfil que tem muit
    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenno1812almeida&layout=compact&langs_count=16&theme=dracula" />
 </div>
    
-## 
+## Conecte-se comigo:
+
 <div> 
     <a href="https://instagram.com/brenno18almeida" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:brenno1812almeida@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>

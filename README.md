@@ -4,15 +4,15 @@ Olá, mundo! Eu me chamo Brenno Almeida, vamos começar?
 
 Algumas informações sobre mim: 
 
-- Atualmente trabalho na CSN (Companhia Siderúrgica Nacional) como estagiário de Tecnologia da Informação. 
-- Sou graduando em Sistemas de Informção na UNIGRANRIO, no qual termino em dezembro de 2023. 🎓
-- Tenho 22 anos (novo, não? 😁).
-- Possuo um pouco mais de 1 ano de experiência na área de desenvolvimento. 🧑‍💻
+- Trabalhei na CSN (Companhia Siderúrgica Nacional) como estagiário de Tecnologia da Informação por 1 ano e 10 meses. 🧑‍💻
+- Sou graduado em Sistemas de Informção pela UNIGRANRIO. 🎓
+- Tenho 23 anos (novo, não? 😁).
 - Fui aprovado no meu tcc com nota 10. <br />
 <img width="120px" heigth="590em" src="https://github.com/brenno1812almeida/brenno1812almeida/assets/103259283/2124d69e-f167-445a-82e6-e78f930379bf"></div>
 - Meus pronomes são ele/dele.
-- Estou estudando atualmente back-end, mais precisamente C# com .NET. Tenho uma base sólida em front-end.
-- Estou fazendo o bootcamp do Santader junto com a DIO.
+- Estou estudando atualmente Java e Angular.
+- Tenho uma base sólida em back-end, mais precisamente em C# ASP.NET.
+- Tenho uma base sólida em front-end: HTML, CSS, JavaScript. E alguns frameworks como: Bootstrap e JQuery.
 - Meu inglês é intermediário. (Ui, todo bilíngue ele)
 
 Vixi, acho que já falei demais... 🤔 Mas continua aqui no perfil que tem muito mais informações sobre mim! 
